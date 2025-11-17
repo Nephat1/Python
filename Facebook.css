@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-weight: bolder;
+    color: blue;
+}
+.box{
+    border: solid 1px  gray;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+button{ 
+    color: white;
+    background-color: blue;
+}
+.box p {
+    text-align: center;
+    background-color: white;
+}
+textarea{
+    margin: 10px;
+}
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+div p5{
+    color: blue;
+    text-align: center;
+}
+footer{
+    background-color: aliceblue;
+}
+section{
+    background-color: gray;
+}
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}

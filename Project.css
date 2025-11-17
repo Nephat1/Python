@@ -1,0 +1,23 @@
+h1{
+    font-style: italic;
+    color: blue;
+    font-size: x-large;
+    text-underline-position: initial;
+    text-align: center;
+}
+h2{
+    font-style: normal;
+    color: chartreuse;
+    font-size: medium;
+}
+p1{
+    color: crimson;
+    font-style: inherit;
+}
+*{
+    background-color: darkgray;
+}
+img{
+    width: 20%;
+    padding:  5%;
+}
